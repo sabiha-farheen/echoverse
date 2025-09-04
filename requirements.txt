@@ -1,0 +1,5 @@
+streamlit
+ibm-watson
+ibm-cloud-sdk-core
+python-dotenv
+pip install -r requirements.txt
